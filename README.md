@@ -33,7 +33,7 @@ In this challenge you are going to create a simple client app that interacts wit
 
 ## Task
 
-1. Either clone or private fork this repository (if you don't know how to do that, Google is your friend)
+1. Clone this repository (if you don't know how to do that, Google is your friend)
 2. Develop the given challenge
 3. Commit and Push your code to your new repository
 3. Send us an email and notify us of completion! We'll take care about the rest and get back to you.
