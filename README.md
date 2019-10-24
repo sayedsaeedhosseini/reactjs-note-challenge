@@ -31,6 +31,13 @@ In this challenge you are going to create a simple client app that interacts wit
 
 **Note:** use jwt in **Authorization** header like: jwt your_jwt_token
 
+## Task
+
+1. Either clone or private fork this repository (if you don't know how to do that, Google is your friend)
+2. Develop the given challenge
+3. Commit and Push your code to your new repository
+3. Send us an email and notify us of completion! We'll take care about the rest and get back to you.
+
 **Please do not start development before getting a confirmation from us.**
 
 Happy Coding! ✊🏻
