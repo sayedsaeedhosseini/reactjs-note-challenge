@@ -1,6 +1,4 @@
 # reactjs-note-challenge
-```
-# Reactjs Note App Challenge
 A simple note app client that create notes with title and content
 
 ## Introduction
