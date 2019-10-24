@@ -7,7 +7,7 @@ A simple note app client that create notes with title and content
 
 In this challenge you are going to create a simple client app that interacts with the provided following api (https://challenge.ronash.co/react) and it should be implemented like the following sketch image:
 
-[sketch image](https://github.com/ronashco/reactjs-note-challenge/raw/master/note_app.png)
+[sketch-image](https://github.com/ronashco/reactjs-note-challenge/raw/master/note_app.png)
 
 ## More description
 
